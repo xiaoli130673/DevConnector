@@ -1,0 +1,7 @@
+{
+  "mongoURI": "mongodb+srv://xiaoli130:xiaoli130@devconnector-u9phi.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mySecret",
+  "githubClientId": "2eff9e7c52b80d7e7dca",
+  "githubSecret": "b35504aff86e7eed6c5985dcc099ae4de8669d49",
+  "githubToken": "a85b0e019a2e4e0818ec5c80208d41b053fb4fb0"
+}
